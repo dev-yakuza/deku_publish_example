@@ -1,8 +1,8 @@
 name: deku_publish_example
 description: A new Flutter package project.
 version: 0.0.1
-homepage: https://dev-yakuza.posstree.com/en/flutter
-repository: https://dev-yakuza.posstree.com/en/flutter
+homepage: https://dev-yakuza.posstree.com/en/flutter/publish_pub_package/
+repository: https://dev-yakuza.posstree.com/en/flutter/publish_pub_package/
 
 environment:
   sdk: '>=2.19.6 <3.0.0'
